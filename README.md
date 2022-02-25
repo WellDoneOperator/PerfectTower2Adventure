@@ -5,7 +5,7 @@ How to use:<br />
 Change first line to 0.1 if you have boots, 0.2 if not<br />
 Need all scripts<br />
 Clear all rooms directly adjacent to the starting room<br />
-Start in entry way (planned starting position is in room two to the left of center)<br />
+Start in entry way (planned starting position is in room one to the left of center)<br />
 Click r to start<br />
 
 Ways to make better:<br />

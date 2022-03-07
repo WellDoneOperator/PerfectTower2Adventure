@@ -13,7 +13,7 @@ Ways to make better:<br />
 Condense scripts to take up less lines or script slots<br />
 
 Requirements:<br />
-24 script spots<br />
+25 script spots<br />
 Atleast 24 lines for scripts<br />
 
 

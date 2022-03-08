@@ -3,7 +3,7 @@ Scripts for the Perfect Tower 2 Adventure Mini Game<br />
 
 How to use:<br />
 Enable either Adventure 1 (R), which does 1 difficulty layer at a time (slower, but safer) or Adventure 2 (R), which does 2 difficulty layers at a time (faster, but riskier)<br />
-Change first line to 0.1 if you have boots, 0.2 if not<br />
+Change first line (adventure delay) of Adventure (R) to 0.1 if you have boots, 0.2 if not<br />
 Need all scripts<br />
 Clear all rooms directly adjacent to the starting room<br />
 Start in entry way (planned starting position is in room one to the left of center), if restarting script, start on a tile of the difficulty you are currently clearing.<br />
